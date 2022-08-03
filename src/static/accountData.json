@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2022.5.9",
+    "inOut": "in",
+    "type": "",
+    "item": "용돈",
+    "price": 50000
+  },
+  {
+    "date": "2022.5.9",
+    "inOut": "out",
+    "type": "eatout",
+    "item": "커피",
+    "price": 1000
+  },
+  {
+    "date": "2022.5.9",
+    "inOut": "out",
+    "type": "transport",
+    "item": "버스",
+    "price": 3800
+  },
+  {
+    "date": "2022.5.9",
+    "inOut": "out",
+    "type": "shopping",
+    "item": "티셔츠",
+    "price": 20000
+  },
+  {
+    "date": "2022.5.9",
+    "inOut": "out",
+    "type": "shopping",
+    "item": "핸드백",
+    "price": 200000
+  },
+  {
+    "date": "2022.5.8",
+    "inOut": "out",
+    "type": "shopping",
+    "item": "마우스",
+    "price": 80000
+  },
+  {
+    "date": "2022.5.8",
+    "inOut": "out",
+    "type": "eatout",
+    "item": "치킨공주",
+    "price": 20000
+  },
+  {
+    "date": "2022.5.8",
+    "inOut": "out",
+    "type": "transport",
+    "item": "택시",
+    "price": 5000
+  },
+  {
+    "date": "2022.5.8",
+    "inOut": "out",
+    "type": "shopping",
+    "item": "SSD",
+    "price": 200000
+  },
+  {
+    "date": "2022.5.7",
+    "inOut": "out",
+    "type": "eatout",
+    "item": "돈까스",
+    "price": 10000
+  },
+  {
+    "date": "2022.4.28",
+    "inOut": "out",
+    "type": "shopping",
+    "item": "키보드",
+    "price": 95000
+  },
+  {
+    "date": "2022.4.28",
+    "inOut": "out",
+    "type": "shopping",
+    "item": "지갑",
+    "price": 50000
+  },
+  {
+    "date": "2022.4.27",
+    "inOut": "out",
+    "type": "eatout",
+    "item": "김밥",
+    "price": 5000
+  },
+  {
+    "date": "2022.4.26",
+    "inOut": "out",
+    "type": "eatout",
+    "item": "치킨",
+    "price": 20000
+  },
+  {
+    "date": "2022.4.25",
+    "inOut": "out",
+    "type": "eatout",
+    "item": "돈까스",
+    "price": 10000
+  },
+  {
+    "date": "2022.4.25",
+    "inOut": "out",
+    "type": "mart",
+    "item": "토마토",
+    "price": 7800
+  },
+  {
+    "date": "2022.4.25",
+    "inOut": "out",
+    "type": "shopping",
+    "item": "연필",
+    "price": 1200
+  },
+  {
+    "date": "2022.4.23",
+    "inOut": "out",
+    "type": "eatout",
+    "item": "스파게티",
+    "price": 12000
+  },
+  {
+    "date": "2022.4.23",
+    "inOut": "out",
+    "type": "shopping",
+    "item": "키보드",
+    "price": 95000
+  },
+  {
+    "date": "2022.4.22",
+    "inOut": "out",
+    "type": "health",
+    "item": "헬스장",
+    "price": 140000
+  }
+]
